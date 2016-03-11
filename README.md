@@ -20,7 +20,7 @@ Keep stylesheets scalable.
 [Never][4] [use][5] [@extend][6].
 
 #### Rule #6
-[Keep][7] [calm][8] [to use][9] [nesting selector][10].
+[Keep][7] [calm][8] [when using][9] [nesting selectors][10].
 
 #### Rule #7
 [Follow][11] [some][12] [architecture][13] [for your code][14].
